@@ -14,7 +14,7 @@ An AVR-based game inspired by the Chrome browser's dinosaur game. This project u
 
 ## About
 
-This project recreates the Chrome browser's dinosaur game using an ATMEGA32 and an LCD screen. The player controls a character (a dinosaur) that must jump over obstacles. This project demonstrates how to interface microcontrollers with an LCD and provides a fun, interactive way to learn more about embedded systems.
+This project recreates the Chrome browser's dinosaur game using an ATMEGA32 and an LCD screen. The player controls a character that must jump over obstacles. This project demonstrates how to interface microcontrollers with an LCD and provides a fun, interactive way to learn more about embedded systems.
 
 ## Features
 
